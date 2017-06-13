@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CheckoutFreePaintShop</string>
+    <string name="kod_kreskowy">KOD KRESKOWY</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="clientid">Client ID</string>
+    <string name="password">Password</string>
+    <string name="scan">Scan</string>
+    <string name="basket">Basket</string>
+    <string name="logout">Log out</string>
+    <string name="firstname">First name</string>
+    <string name="surname">Surname</string>
+    <string name="email">E-mail</string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="addcompany">Add Company (Optional)</string>
+    <string name="addcreditcard">Add Credit Card</string>
+    <string name="createaccount">Create Account</string>
+    <color name="white">#FFFFFF</color>
+    <string name="companyname">Company Name</string>
+    <string name="nip">NIP</string>
+    <string name="addressline1">Address (Line 1)</string>
+    <string name="addressline2">Address (Line 2)</string>
+    <string name="cardnumber">Card Number</string>
+    <string name="cvv">CVV</string>
+    <string name="expirationdate">Date of Expire (MM/YY)</string>
+    <string name="cardtypes">Select card type</string>
+    <string-array name="cardtypes">
+        <item>MasterCard</item>
+        <item>AmericanExpress</item>
+        <item>Visa</item>
+    </string-array>
+    <string name="nameandsurname">Owner Name and Surname</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="plus">+</string>
+    <string name="minus">- </string>
+    <string name="backtomenu">Back to menu </string>
+    <string name="addproduct">Add product</string>
+    <string name="enterid">Enter product id</string>
+    <string name="basketpayment">Payment</string>
+    <string name="shopping">Shopping</string>
+    <string name="deposit">Deposit</string>
+    <string name="accountbalance">Account Balance</string>
+    <string name="myaccount">My Account</string>
+
+
+
+</resources>
